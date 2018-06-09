@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MySQLConnection.java&apos; to &apos;Jupiter/src/db.mysql&apos;&#x0A;- Original project: &apos;Jupiter&apos;&#x0A;- Destination element: &apos;Jupiter/src/db.mysql&apos;&#x0A;- Original element: &apos;db.MySQLConnection.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;db.mysql" element1="/src&lt;db{MySQLConnection.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1527447714719" units="1" version="1.0"/>
+</session>

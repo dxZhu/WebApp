@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/dxzhu/Documents/Summer 2018/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2491864820.index
+3026521838.index
+4048074359.index
+2500519187.index
+2235529674.index
+1077896306.index
